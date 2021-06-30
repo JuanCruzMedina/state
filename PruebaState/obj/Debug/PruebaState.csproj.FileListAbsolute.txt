@@ -1,0 +1,14 @@
+C:\Users\lucca\source\repos\PruebaState\PruebaState\bin\Debug\PruebaState.exe.config
+C:\Users\lucca\source\repos\PruebaState\PruebaState\bin\Debug\PruebaState.exe
+C:\Users\lucca\source\repos\PruebaState\PruebaState\bin\Debug\PruebaState.pdb
+C:\Users\lucca\source\repos\PruebaState\PruebaState\obj\Debug\PruebaState.csprojAssemblyReference.cache
+C:\Users\lucca\source\repos\PruebaState\PruebaState\obj\Debug\PruebaState.csproj.CoreCompileInputs.cache
+C:\Users\lucca\source\repos\PruebaState\PruebaState\obj\Debug\PruebaState.exe
+C:\Users\lucca\source\repos\PruebaState\PruebaState\obj\Debug\PruebaState.pdb
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\bin\Debug\PruebaState.exe.config
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\bin\Debug\PruebaState.exe
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\bin\Debug\PruebaState.pdb
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\obj\Debug\PruebaState.csproj.AssemblyReference.cache
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\obj\Debug\PruebaState.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\obj\Debug\PruebaState.exe
+C:\Users\juan_\Desktop\Juan Cruz\repos\PruebaState\PruebaState\obj\Debug\PruebaState.pdb
